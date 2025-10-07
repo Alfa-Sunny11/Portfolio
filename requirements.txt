@@ -1,3 +1,4 @@
 google.generativeia
 pymupdf
 django
+gunicorn
