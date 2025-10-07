@@ -4,7 +4,7 @@
    "config": { "maxLambdaSize": "15mb", "runtime": "python3.13"}
 }],
 
-"route": [
+"routes": [
   {
     "src": "/(.*)",
     "dest": "portfolio/wsgi.py"
