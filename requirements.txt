@@ -1,0 +1,3 @@
+google.generativeia
+pymupdf
+django
